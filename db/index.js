@@ -11,5 +11,5 @@ const pool = new Pool({
 pool.query('SELECT * FROM monsters', (err, res) => {
     if (err) return console.log(err);
 
-    console.log(res);
+    console.log(res)
 });
