@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "message": "Future is coming.",
+        "lucky_number": 12,
+        "spirit_animal": "Dog"
+    },
+    {
+        "id": 2,
+        "message": "The past is behind you.",
+        "lucky_number": 15,
+        "spirit_animal": "Cow"
+    }
+]
